@@ -13,16 +13,13 @@
 * [SecLists](https://github.com/danielmiessler/SecLists)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-## Books
+## Notes
 
-* [Game Hacking Academy](https://gamehacking.academy/assets/GameHackingAcademy.pdf)
-
-## Blogs
-
-* [Red Team Notes](https://www.ired.team/)
+* [My Obsidian notes](./notes/obsidian/)
 
 ## CTFs
 
 * My writeups from the following CTFs:
-    * picoCTF
-    * ECSC 2023 (PL, qualifications)
+    * [picoCTF](./ctfs/)
+    * [ECSC 2023 (PL, qualifications)](./ctfs/)
+
