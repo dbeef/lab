@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9b317bdad991a81a",
+    "type": "split",
+    "children": [
+      {
+        "id": "67169763f4fbac83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf2b2048d02096a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs/Blogs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c21cc1d7efd4bd86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8b7f466dc78d478",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40ab0fd62f8a74d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec91972d089b878",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17035371c0bbb485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64e5667e075a38d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f8cf96562412acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3232f42f3668dbe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40dfb4bd05ca7dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e69d38b5263de7b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38f253446c0b82e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06f3054add7d9726",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c21cc1d7efd4bd86",
+  "lastOpenFiles": [
+    "Blogs/Blogs.md",
+    "Books/Books.md",
+    "Books/Bug Bounty Bootcamp.md",
+    "Cybersecurity.md",
+    "Untitled.canvas",
+    "CTFs/CTFs.md",
+    "CTFs",
+    "Untitled 1.canvas",
+    "Blogs",
+    "Books",
+    "2024-01-10.md",
+    "Untitled 2.canvas",
+    "Books"
+  ]
+}
