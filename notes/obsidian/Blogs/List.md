@@ -1,3 +1,3 @@
 * Zaufana Trzecia Strona - https://zaufanatrzeciastrona.pl/
-
-[[Blogs]]
+---
+A part of [[Blogs]]

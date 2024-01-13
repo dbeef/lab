@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/CTFs.md",
+                "file": "Research/Lab/Tools/Tools.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9378b0374cc68513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Malware Sources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccc35ea2fb81f9ee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/Lab/Tools/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/Lab/Tools/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research/Lab/Tools/Tools.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,28 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccc35ea2fb81f9ee",
+  "active": "4ec91972d089b878",
   "lastOpenFiles": [
-    "Research/Malware Sources.md",
-    "Cybersecurity.md",
-    "Research/CTFs.md",
-    "Research",
-    "2024-01-10.md",
-    "Blogs/List.md",
-    "Blogs/Favorite Posts.md",
-    "Blogs.md",
-    "Blogs",
-    "Books/Non-Technical.md",
-    "Books/Books.md",
-    "Books/Technical.md",
-    "Untitled.canvas",
-    "Books",
-    "Books/Bug Bounty Bootcamp.md",
-    "CTFs",
+    "Research/Lab/Lab.md",
+    "Research/Lab/Useful repositories.md",
+    "Research/CTFs & Practicing.md",
+    "Research/Lab/Tools/Offensive/For USB sticks.md",
+    "Research/Lab/Tools/Offensive/Botnets.md",
+    "Research/Lab/Tools/Offensive/C2.md",
+    "Research/Lab/Malware Sources.md",
+    "Research/Lab/Tools/Offensive/Stealers.md",
+    "Research/Lab/Tools/Offensive/Scanners.md",
+    "Research/Lab/Tools/Offensive/RAT.md",
+    "Research/Lab/Tools/Offensive/Offensive.md",
+    "Research/Lab/Tools/Tools.md",
+    "Research/Research.md",
+    "Research/Lab/Tools/General/General.md",
     "Untitled 1.canvas",
+    "Research/Lab/Tools/General/Fuzzers.md",
+    "Research/Lab/Tools/Defensive/Defensive.md",
+    "Research/Lab/Tools/Defensive/IDS and network monitoring.md",
+    "Research/Lab/Tools/Defensive/Virus detection.md",
+    "Companies/Companies.md",
+    "Research/Lab/Tools/General",
+    "Research/Lab/Tools/General.md",
+    "Research/Lab/Tools/Offensive",
+    "Research/Lab/Tools",
+    "Research/Lab/Tools/Defensive",
+    "Untitled.canvas",
+    "Companies",
+    "Cybersecurity.md",
+    "Research/CVEs.md",
+    "Blogs/Blogs.md",
+    "Blogs/Books.md",
+    "Blogs/Favorite Posts.md",
+    "Blogs/List.md",
+    "Research/Lab",
+    "Research",
     "Blogs",
     "Books",
-    "Untitled 2.canvas",
-    "Books"
+    "CTFs",
+    "Untitled 2.canvas"
   ]
 }
