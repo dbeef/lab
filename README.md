@@ -1,5 +1,6 @@
 # Cybersecurity research lab
 
+* [Obsidian notes](./notes/obsidian/)
 * [Tools (install scripts)](./install/tools)
-* [My Obsidian notes](./notes/obsidian/)
+* [CTF writeups](./notes/ctf/)
 
